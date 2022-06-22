@@ -12,6 +12,7 @@
 	<artifactId>wordsearch-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>wordsearch-api</name>
+
 	<description>API for generating word search</description>
 	<properties>
 		<java.version>11</java.version>
